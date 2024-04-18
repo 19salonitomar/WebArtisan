@@ -1,4 +1,4 @@
-### WebArtisan Repository
+# WebArtisan Repository
 Welcome to the WebArtisan Repository! This repository is a collection of web pages, designs, and templates created by the WebArtisan. Each folder contains various projects showcasing the artistry and craftsmanship of web development using HTML, CSS, and JavaScript.
 
 ## About
