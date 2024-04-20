@@ -12,5 +12,6 @@ Explore the folders in this repository to discover a variety of web pages, desig
 - Templates: Versatile templates ready to be customized for various web projects, providing a foundation for stunning websites.
 
 ## Folder Structure
-- Folder Name 1: [Brief description of the contents of this folder]
-[List of files or projects within this folder]
+
+- Poster@1: A Basic Poster making with the help of html and css.
+List of files:  Html and CSS files
